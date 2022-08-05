@@ -2,8 +2,8 @@
     background-image: url(images/hero-bg.svg);
 }
 
-#heo-logo {
-    margin: 69 0;
+#hero-logo {
+    padding: 69px 0px;
 }
 
 a {
@@ -14,11 +14,12 @@ a {
 .links a {
     background-color: white;
     border: 1px solid red;
-    padding:11px 28px;
 }
 
-#hero-logo {
-    margin: 69px 0px;
+.links a:hover {
+    color: white;
+    background-color: red;
+    border: 1px solid red;
 }
 
 #hero {
@@ -34,9 +35,26 @@ a {
     margin-bottom: 16px;
 }
 
-hero-section h2 {
+#another .container {
+    margin-top: 92px;
+}
+
+/* #hero {
+    padding: 10px;
+}
+
+#hero h2 {
     margin-bottom: 36px;
 }
+
+#hero p {
+    font-weight: 400px;
+    margin-bottom: 16px;
+}
+
+hero-section h2 {
+    margin-bottom: 36px;
+} */
 
 /* #main-links {
     margin: 90px 0px 52px 0px;
