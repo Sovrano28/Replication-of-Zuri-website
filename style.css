@@ -5,3 +5,39 @@
 #heo-logo {
     margin: 69 0;
 }
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+.links a {
+    background-color: white;
+    border: 1px solid red;
+    padding:11px 28px;
+}
+
+#hero-logo {
+    margin: 69px 0px;
+}
+
+#hero {
+    padding: 10px;
+}
+
+#hero h2 {
+    margin-bottom: 36px;
+}
+
+#hero p {
+    font-weight: 400px;
+    margin-bottom: 16px;
+}
+
+hero-section h2 {
+    margin-bottom: 36px;
+}
+
+/* #main-links {
+    margin: 90px 0px 52px 0px;
+} */
