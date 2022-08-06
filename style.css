@@ -39,23 +39,29 @@ a {
     margin-top: 92px;
 }
 
-/* #hero {
-    padding: 10px;
+#programs-section {
+    background-color: #fff;
+    /* background-image: url(images/program-bg.png); */
 }
 
-#hero h2 {
-    margin-bottom: 36px;
+.programs {
+    background-color: #fff;
 }
 
-#hero p {
-    font-weight: 400px;
-    margin-bottom: 16px;
+.each-program {
+    background-color: #fffafa;
 }
 
-hero-section h2 {
-    margin-bottom: 36px;
-} */
+#programs-section .col-12 h5 {
+    font-size: 14px; 
+    color:red;
+}
 
-/* #main-links {
-    margin: 90px 0px 52px 0px;
-} */
+.programs a {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#slogan {
+    font-size: 24px;
+}
