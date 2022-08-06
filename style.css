@@ -1,3 +1,8 @@
+body {
+    color: #524949;
+    font-family: Averta, sans-serif;
+}
+
 #hero-section {
     background-image: url(images/hero-bg.svg);
 }
@@ -64,4 +69,14 @@ a {
 
 #slogan {
     font-size: 24px;
+}
+
+.link-icons {
+    width: 18px;
+    height: 18px;
+}
+
+#copyright {
+    font-size: 16px;
+    font-weight: bold;
 }
